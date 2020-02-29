@@ -42,7 +42,7 @@ void loop()
     Joystick.setButton(1, false);
     digitalWrite(10, LOW);
    }//690, 800
-   //aiden: 360, 450n
+   //aiden: 360, 450
    
    
    
